@@ -1,3 +1,45 @@
 body{
 	font-family: 'Open Sans', sans-serif;
+	background-color: #ebfaeb
 }
+#title{
+	background-color: #006600;
+	color: white;
+	padding: 15px;
+	box-shadow: 0px 4px 12px 0px rgba(0,0,0,0.75);
+}
+#cart{
+	padding: 20px;
+}
+#total{
+	background-color: #59a659;
+	padding: 5px;
+	border-radius: 10%;
+}
+.add{
+	color: white;
+	background-color: #33cc33;
+}
+.add:hover{
+	color:white;
+	background-color: #003300;
+}
+#shop .box{
+	background-color: #c2f0c2;
+	margin: 5px;
+	padding: 10px;
+}
+#shop .box:hover{
+	zoom: 103%;
+}
+.product{
+	margin-left: 12px
+}
+.remove{
+	background-color: #6c936c;
+	color: black;
+}
+.remove:hover{
+	color: white;
+}
+
